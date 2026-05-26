@@ -25,19 +25,19 @@
 
 ## Screenshots
 ### Register Employees
-![Register](register.png)
+![Register](Register.png)
 
 ### Login Employees
-![Login](screenshots/login.png)
+![Login](Login.png)
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](Home.png)
 
 ### Add Employee
-![Add](screenshots/add.png)
+![Add](Add.png)
 
 ### View Employees
-![View](screenshots/view.png)
+![View](View.png)
 
 ### Logout Employees
-![logout](screenshots/logout.png)
+![logout](Logout.png)
