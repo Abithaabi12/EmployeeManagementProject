@@ -20,3 +20,24 @@
 1. Import project into Eclipse
 2. Configure Tomcat server
 3. Run on server
+
+
+
+## Screenshots
+### Register Employees
+![Register](screenshots/register.png)
+
+### Login Employees
+![Login](screenshots/login.png)
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Add Employee
+![Add](screenshots/add.png)
+
+### View Employees
+![View](screenshots/view.png)
+
+### Logout Employees
+![logout](screenshots/logout.png)
