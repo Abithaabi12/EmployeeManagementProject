@@ -25,7 +25,7 @@
 
 ## Screenshots
 ### Register Employees
-![Register](screenshots/register.png)
+![Register](register.png)
 
 ### Login Employees
 ![Login](screenshots/login.png)
